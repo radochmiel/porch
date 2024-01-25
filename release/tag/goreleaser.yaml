@@ -84,7 +84,7 @@ changelog:
 release:
   github:
     owner: radochmiel
-    name: porch-dev
+    name: porch
   draft: false
   prerelease: "true"
   # Header for the release body.
