@@ -13,10 +13,7 @@
 # limitations under the License.
 
 name: porchctl Release
-on:
-  push:
-    tags:
-      - "v[1-9].*.*"
+on: workflow_dispatch
 
 jobs:
   build:
